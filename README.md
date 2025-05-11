@@ -1,9 +1,9 @@
 <h1 align="center">   
-  <img src="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/main/name.svg" alt="Kalaiyarasu M R" /> 
+  <img src="https://raw.githubusercontent.com/KALAIYARASU-MR/KALAIYARASU-MR/main/name.svg" alt="Kalaiyarasu M R" /> 
 </h1> 
 
 <p align="left">    
-  <img src="https://komarev.com/ghpvc/?username=SUDHARSAN-KSRCT&label=Profile%20views&color=0e75b6&style=flat" alt="SUDHARSAN-KSRCT" />  
+  <img src="https://komarev.com/ghpvc/?username=KALAIYARASU-MR&label=Profile%20views&color=0e75b6&style=flat" alt="KALAIYARASU-MR" />  
 </p>  
 
 <h3 align="center">A Passionate Web Developer And UI/UX Developer</h3>  
@@ -11,18 +11,18 @@
 <br/>  
 
 <div align="center">  
-  💬 Ask me about **Java, React, UI/UX ... or anything [here](https://github.com/SUDHARSAN-KSRCT)**  
+  💬 Ask me about **Java, React, UI/UX ... or anything [here](https://github.com/KALAIYARASU-MR)**  
   ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  
 </div>  
 
 <div align="center">  
-  <a href="mailto:sudharsancsbs@gmail.com">  
+  <a href="mailto:kalaiyarasumr@gmail.com">  
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
   </a>  
-  <a href="https://www.linkedin.com/in/sudharsancsbs/" target="_blank">  
+  <a href="https://www.linkedin.com/in/kalaiyarasumr/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>  
-  <a href="https://sudharsansite.netlify.app/" target="_blank">  
+  <a href="https://kalaiyarasu-portfolio.netlify.app/" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />  
   </a>  
 </div>  
@@ -45,10 +45,10 @@
 <br>  
 
 <div align="center">  
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SUDHARSAN-KSRCT&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SUDHARSAN-KSRCT&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KALAIYARASU-MR&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KALAIYARASU-MR&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
   <br/>  
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />  
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KALAIYARASU-MR&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />  
 </div>  
 
 <br/><br/>  
@@ -57,7 +57,7 @@
 <br/>  
 
 <div align="center"> 
-  <a href='https://ko-fi.com/sudharsan' target='_blank'>  
+  <a href='https://ko-fi.com/kalaiyarasu' target='_blank'>  
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />  
   </a> 
 </div>  
